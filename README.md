@@ -1,0 +1,1 @@
+# azurecli2.0-centos7
